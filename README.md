@@ -2,7 +2,7 @@
 
 Personal portfolio of **Ahmad Raza**, a data engineer based in Lahore, Pakistan, available for Associate / Junior Data Engineer roles.
 
-**Live site:** https://itxahmad1.github.io
+**Live site:** h[ttps://itxahmad1.github.io](https://itxahmad1.github.io/portfolio/)
 
 ## About me
 
